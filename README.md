@@ -46,6 +46,7 @@
     <a href="https://github.com/nicholas-gcc/ARBital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=ARBital" alt="ReadMe Card"></a>
     <a href="https://github.com/nicholas-gcc/nodejs-ecommerce-microservice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=nodejs-ecommerce-microservice" alt="ReadMe Card"></a>
     <a href="https://github.com/nicholas-gcc/java-bash-shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=java-bash-shell" alt="ReadMe Card"></a>
+    <a href="https://github.com/nicholas-gcc/nicholasgcc_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=nicholasgcc_portfolio" alt="ReadMe Card"></a>
 </p>
 
 <div align="center">
