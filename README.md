@@ -36,7 +36,7 @@
 
 -------
 
-<h3 align="center">📊 My Personal + University Projects</h3>
+<h3 align="center">📊 My Favourite Personal + University Projects</h3>
 
 <br>
 
