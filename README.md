@@ -96,7 +96,18 @@
 
 </div>
 
+-------
+
+<h3 align="center">🖊 Check out my articles</h3>
+<br>
+
+<div align="center">
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicholasgcc/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicholasgcc/0" alt="Recent Article 0"> 
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@nicholasgcc/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@nicholasgcc/1" alt="Recent Article 1"> 
+</div>
+
 <!-- GitHub section -->
+<div align="center">
 
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 
@@ -112,6 +123,7 @@
   </div>
 </details>
 
+</div>
 <!-- GitHub section: END -->
 
 
