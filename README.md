@@ -20,7 +20,7 @@
 
 💻 I explore cool, new tech and learn stuff by doing lots of projects. Sometimes I [write](https://medium.com/@nicholasgcc) about them too
 
-📚 Recent CS Graduate from [National University of Singapore](https://www.nus.edu.sg) with a specialisation in Software Engineering
+📚 Recent Computer Science Graduate from [National University of Singapore](https://www.nus.edu.sg) with a specialisation in Software Engineering
 
 🔍 While I'm not coding, you'll find me doing 🥊, 🏋 or 🍳
 
