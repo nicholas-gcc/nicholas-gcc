@@ -6,7 +6,7 @@
 
 <p align="center">
     <a href="https://www.linkedin.com/in/nicholasgcc/"><img src="https://img.shields.io/badge/-nicholasgcc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicholasgcc/" alt="Linkedin Badge"></a>
-    <a href="https://www.paypal.me/sakshamtaneja"><img src="https://img.shields.io/badge/personal%20website-8A2BE2" alt="My Website"></a>
+    <a href="https://nicholasgcc.dev"><img src="https://img.shields.io/badge/personal%20website-8A2BE2" alt="My Website"></a>
     <a href="https://medium.com/@nicholasgcc/"><img src="https://img.shields.io/badge/-@nicholasgcc-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@nicholasgcc/" alt="Medium Badge"></a>
     <a href="https://github.com/nicholas-gcc/?tab=follow"><img src="https://img.shields.io/github/followers/nicholas-gcc?label=Follow&style=social" alt="GitHub followers"></a>
     <a href="mailto:nicholasgcc@gmail.com"><img src="https://img.shields.io/badge/-nicholasgcc@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicholasgcc@gmail.com" alt="Gmail Badge"></a>
