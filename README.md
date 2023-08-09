@@ -58,6 +58,16 @@
 
 -------
 
+<h3 align="center">👾 My Recent Projects</h3>
+
+<br>
+
+<p align="center">
+    <a href="https://github.com/nicholas-gcc/favours4uni"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=auth0-app-action-map" alt="ReadMe Card"></a>
+    <a href="https://github.com/nicholas-gcc/xylem-flood-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=taylor-swift-algorithm" alt="ReadMe Card"></a>
+
+-------
+
 <h3 align="center">🕶 Languages</h3>
 <br>
 
