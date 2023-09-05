@@ -16,9 +16,11 @@
 
 <!-- About section -->
 
-🚀 I'm Nicholas Canete, a Backend Software Engineer, passionate about API Development and Observability. Born in 🇵🇭, based in 🇸🇬
+🚀 I'm Nicholas Canete, a Backend Software Engineer, passionate about API Development and Identity Tools. Born in 🇵🇭, based in 🇸🇬
 
 💻 I explore cool, new tech and learn stuff by doing lots of projects. Sometimes I [write](https://medium.com/@nicholasgcc) about them too
+
+💼 Developer Support Engineer with [Okta](https://www.okta.com/)
 
 📚 Recent Computer Science Graduate from [National University of Singapore](https://www.nus.edu.sg) with a specialisation in Software Engineering
 
@@ -26,13 +28,20 @@
 
 -------
 
+<h3 align="center">💻 Full TIme Work Experience </h3>
+<br>
+
+- **Developer Support Engineer** @ [Okta](https://www.okta.com) working on developing use cases and client software integrations with [Auth0](https://auth0.com/) 
+
+-------
+
 <h3 align="center">💼 Internships</h3>
 <br>
 
-- Software Engineer @ [Autodesk](https://www.autodesk.com) working with the Forge API Management Team
-- Software Engineer @ [Acumino](https://www.acumino.com) developing Digital Humans
-- Software Engineer (Part-Time) @ [HustleHuts](https://hustlehuts.com) integrating backend systems for a co-working space booking solution
-- Teaching Assistant @ [NUS](https://www.nus.edu.sg) teaching Data Analytics in Python
+- **Software Engineer** @ [Autodesk](https://www.autodesk.com) working with the Forge API Management Team
+- **Software Engineer** @ [Acumino](https://www.acumino.com) developing Digital Humans
+- **Software Engineer** (Part-Time) @ [HustleHuts](https://hustlehuts.com) integrating backend systems for a co-working space booking solution
+- **Teaching Assistant** @ [NUS](https://www.nus.edu.sg) teaching Data Analytics in Python
 
 -------
 
