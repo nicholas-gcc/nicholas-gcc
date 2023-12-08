@@ -45,17 +45,17 @@
 
 -------
 
-<h3 align="center">📊 My Favourite Personal + University Projects</h3>
+<h3 align="center">📊 My Favourite Projects</h3>
 
 <br>
 
 <p align="center">
+    <a href="https://github.com/nicholas-gcc/auth-globe-trek"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=auth-globe-trek" alt="ReadMe Card"></a>
     <a href="https://github.com/nicholas-gcc/favours4uni"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=favours4uni" alt="ReadMe Card"></a>
     <a href="https://github.com/nicholas-gcc/xylem-flood-prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=xylem-flood-prediction" alt="ReadMe Card"></a>
     <a href="https://github.com/nicholas-gcc/ARBital"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=ARBital" alt="ReadMe Card"></a>
     <a href="https://github.com/nicholas-gcc/nodejs-ecommerce-microservice"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=nodejs-ecommerce-microservice" alt="ReadMe Card"></a>
     <a href="https://github.com/nicholas-gcc/java-bash-shell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=java-bash-shell" alt="ReadMe Card"></a>
-    <a href="https://github.com/nicholas-gcc/nicholasgcc_portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nicholas-gcc&repo=nicholasgcc_portfolio" alt="ReadMe Card"></a>
 </p>
 
 <div align="center">
